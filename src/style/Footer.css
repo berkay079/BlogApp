@@ -1,0 +1,14 @@
+.Footer{
+    
+}
+
+.FooterButton{
+    margin: 5px;
+    border-radius: 45px;
+    width: 30px;
+    height: 30px;
+}
+
+.FooterContent{
+    margin-left: 680px;
+}

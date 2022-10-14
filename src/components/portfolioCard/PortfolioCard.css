@@ -1,0 +1,25 @@
+.PortfolioCard {
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 350px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(28, 12, 12, 0.355);
+  padding: 10px;
+  margin: 20px;
+}
+.PortfolioCardTop {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.PortfolioCardBody {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+.PortfolioImgStyle {
+  width: 100%;
+  height: 100%;
+}

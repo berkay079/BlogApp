@@ -1,0 +1,9 @@
+.PortfolioCardsStyle {
+  display: flex;
+}
+
+.PortfolioBody {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}

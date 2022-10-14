@@ -1,0 +1,59 @@
+.ArticlesCard {
+  width: 500px;
+  height: max-content;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px;
+  box-shadow: 0 4px 8px 0 #000;
+}
+.ArticlesCardTop {
+  text-align: left;
+}
+.ArticlesCardBody {
+  display: flex;
+}
+.ArticlesCardBodyImage {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  margin: 5px;
+}
+.ArticlesCardBodyImage1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin: 5px;
+}
+.ArticlesCardBodyText {
+  padding: 5px;
+  margin: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.ArticleInfoParagraph {
+  word-break: break-all;
+  white-space: normal;
+}
+.ArticlesCardBottom {
+  flex-direction: column;
+}
+.ArticlesCardBottomDiv1 {
+  display: flex;
+  flex-direction: row;
+}
+.ArticlesCardBottomImage {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+  border-radius: 25px;
+  margin: 10px;
+}
+.ArticlesCardBottomText {
+  padding-top: 20px;
+}
+.ArticlesCardBottomDiv2 {
+  display: flex;
+  margin: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+}

@@ -1,0 +1,36 @@
+.Card {
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #000;
+}
+
+.CardTop {
+  display: flex;
+  justify-content: space-between;
+}
+
+.CardBody {
+  border: 1px solid #000;
+}
+
+.CardBottom {
+  margin: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.CardButton {
+  margin: 5px;
+  border-radius: 45px;
+  width: 30px;
+  height: 30px;
+}
+
+.CardTopImage {
+  width: 50px;
+  height: 50px;
+  border-radius: 45px;
+}

@@ -1,0 +1,13 @@
+.square {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: #F19C79;
+    transform: rotate(45deg);
+    margin: 50px;
+  }
+
+.text{
+    margin: auto;
+    transform: rotate(-45deg);
+}

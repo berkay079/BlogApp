@@ -1,0 +1,63 @@
+.ContactInfoStyle {
+  display: flex;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.ContactImgStyle {
+  width: 300x;
+  height: 300px;
+}
+.ContentBottom {
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  box-shadow: 0 0 10px rgba(28, 12, 12, 0.203);
+  border-radius: 10px;
+  padding: 30px;
+}
+.ContactBottomStyle {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.ContactCardsStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ContactButton1Style {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.ContactButtonImgStyle {
+  width: 100px;
+  height: 100px;
+}
+.ContactUserSendStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+.ContactUserSendStyle1 {
+  margin: 50px;
+  justify-content: space-between;
+  width: 500px;
+}
+.ContactInputStyle {
+  margin: 10px;
+  width: 100%;
+  height: 50px;
+}
+
+.ContactInputStyle2 {
+  width: 100%;
+  height: 300px;
+}
+.ContactButtonStyle {
+  margin-top: 20px;
+  width: 100%;
+  height: 50px;
+}

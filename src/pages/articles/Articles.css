@@ -1,0 +1,27 @@
+.ArticlesContentsStyle {
+  display: flex;
+  margin-top: 10px;
+}
+.ArticlesTextContentsStyle {
+  display: flex;
+  padding: 10px;
+}
+.ArticlesInnerContentsStyle {
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  padding: 10px;
+}
+.ArticlesInnerContentsStyle1 {
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  padding: 10px;
+}
+.ArticleContainer {
+}
+.CategoryContainer {
+  background-color: aliceblue;
+  display: flex;
+  float: right;
+}

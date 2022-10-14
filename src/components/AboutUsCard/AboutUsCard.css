@@ -1,0 +1,18 @@
+.AboutUsCard {
+  width: auto;
+  height: auto;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.CardTop {
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.AboutUsCardBody {
+  padding: 70px;
+}
